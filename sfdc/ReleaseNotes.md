@@ -2,6 +2,10 @@
 
 All notable changes to Vivastream's Salesforce.com plugin are documented here.
 
+## [2.0] - 2023-07
+
+- Migration to second-generation managed packaging (managed 2GP)
+
 ## [1.6] - 2023-06
 
 ### Fixed
